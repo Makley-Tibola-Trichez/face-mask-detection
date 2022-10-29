@@ -1,7 +1,4 @@
-Integrantes: Makley Tibola Trichez
-
-
-
+Integrantes: Makley Tibola Trichez, William Peiter
 
 Recursos utilizados:
 Amostras de faces com ou sem mascaras
